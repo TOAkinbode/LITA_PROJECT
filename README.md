@@ -1,7 +1,7 @@
 # LITA_PROJECT
 A safe place for all my LITA class work
 
-## PROJECT TITLE: ANALYSIS OF LITA HR DATA
+## PROJECT TITLE: ANALYSIS OF INCUBATOR HUB HR DATA
  
  [PROJECT OVERVIEW](project-overview)
 
