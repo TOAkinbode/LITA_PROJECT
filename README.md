@@ -51,7 +51,7 @@ Conditional columns were added to filter down some data so as to get a better vi
 ![Screenshot 2024-10-25 141238](https://github.com/user-attachments/assets/e1f0e2e2-c8eb-4222-a289-9e43cbca1a06)
 ![Screenshot 2024-10-25 141318](https://github.com/user-attachments/assets/dcde10ff-3249-4577-9c39-e5186522162d)
 ![Screenshot 2024-10-25 141333](https://github.com/user-attachments/assets/fa13bd19-3603-4f84-ade9-b4ff32d7963b)
-![Screenshot 2024-10-24 175859](https://github.com/user-attachments/assets/1844f9c6-9571-474a-b5e1-b5225fbc73c6)
+
 
 
 ### DEDUCTION FROM THE ANALYSIS
