@@ -10,7 +10,7 @@ A safe place for all my LITA class work
   [Data Cleaning and Preparations](data-cleaning-and-preparations)
 
   [Exploratory Data Analysis](exploratory-data-analysis)
-
+  
     [Data Analysis](data-analysis)
 
  [DATA VISUALIZATION](data-visualization)
