@@ -11,7 +11,7 @@ A safe place for all my LITA class work
 
   [Exploratory Data Analysis](exploratory-data-analysis)
   
-    [Data Analysis](data-analysis)
+  [Data Analysis](data-analysis)
 
  [DATA VISUALIZATION](data-visualization)
 
