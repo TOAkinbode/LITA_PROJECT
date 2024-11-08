@@ -36,7 +36,7 @@ In the initial phase of data cleaning and preparation, we performed the followin
 ### Exploratory Data Analysis
 The data was adequately explored in Power BI, additional columns were created as calculated columns, some other information needed were calculated as measures.
 ### Data Analysis
-Here some lines of codes or queries or even some of the DAX expressions were used during analysis
+Here some lines of codes or queries and some of the DAX expressions that were used during analysis
 ```POWER BI
 Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 
 ```
