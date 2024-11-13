@@ -42,12 +42,18 @@ Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count)
 ```
 Conditional columns were added to filter down some data so as to get a better visualization, one of those is the creation of conditional column to convert the Job Satisfaction column to Job Satisfaction Rating using figures 1,2,3,4 to represent each satisfactory level.
 ### DATA VISUALIZATION
-![Screenshot 2024-10-25 144321](https://github.com/user-attachments/assets/30af04d9-8344-4462-98e3-3b564353df01)
+![Screenshot 2024-11-13 192847](https://github.com/user-attachments/assets/6c7abeec-dcd6-458b-afce-75bbe356f0f5)
+
 ![Screenshot 2024-10-24 175432](https://github.com/user-attachments/assets/4ebbc49f-c510-4ee3-8a93-8f895186f06b)
+
 ![Screenshot 2024-10-24 175826](https://github.com/user-attachments/assets/8dc06b35-b917-47b8-b764-e83d8113e356)
+
 ![Screenshot 2024-10-24 175843](https://github.com/user-attachments/assets/ee99860e-562b-4929-8f34-1af80b980e3a)
+
 ![Screenshot 2024-10-24 175859](https://github.com/user-attachments/assets/f3d14cf8-5eff-43af-b3f8-ce1e97f430ec)
+
 ![Screenshot 2024-10-25 141238](https://github.com/user-attachments/assets/8bd95302-fcfb-48f9-8bcb-24945143892c)
+
 ![Screenshot 2024-10-25 141238](https://github.com/user-attachments/assets/e1f0e2e2-c8eb-4222-a289-9e43cbca1a06)
 
 ### DEDUCTION FROM THE ANALYSIS
