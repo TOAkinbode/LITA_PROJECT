@@ -54,7 +54,6 @@ Conditional columns were added to filter down some data so as to get a better vi
 
 ![Screenshot 2024-10-25 141238](https://github.com/user-attachments/assets/8bd95302-fcfb-48f9-8bcb-24945143892c)
 
-![Screenshot 2024-10-25 141238](https://github.com/user-attachments/assets/e1f0e2e2-c8eb-4222-a289-9e43cbca1a06)
 
 ### DEDUCTION FROM THE ANALYSIS
 -From the analysis, it was observed that the rate of attrition was higher among the male employees, also majority of these male employees were in Research and Development Department and their average age is 37.
