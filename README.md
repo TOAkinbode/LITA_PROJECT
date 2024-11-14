@@ -56,12 +56,18 @@ Conditional columns were added to filter down some data so as to get a better vi
 
 
 ### DEDUCTION FROM THE ANALYSIS
--From the analysis, it was observed that the rate of attrition was higher among the male employees, also majority of these male employees were in Research and Development Department and their average age is 37.
--The Total Number of male employees = 882
--Total number of attrition = 150
--Total number of current employee = 732
--The average age is 37.
--The Job satisfactory rating gave an insight to the fact that some of the employee underwent attrition or were releaved of their jobs due to low performance, 46 staff among the 237 staff on attrition had a satifactory rating of Very Dissatisfied, 66 staff a rating of Dissatisfied.
+- From the analysis, it was observed that the rate of attrition was higher among the male employees, also majority of these male employees were in Research and Development Department and their average age is 37.
+
+- The Total Number of male employees = 882
+
+- Total number of attrition = 150
+
+- Total number of current employee = 732
+
+- The average age is 37.
+
+- The Job satisfactory rating gave an insight to the fact that some of the employee underwent attrition or were releaved of their jobs due to low performance, 46 staff among the 237 staff on attrition had a satifactory rating of Very Dissatisfied, 66 staff a rating of Dissatisfied.
+
 #### CONCLUSION
 It can be concluded that attrition is higher among male staff in research and development department who are around 37 years of age, this could be due to 
 -1 These men are probably married and needed more income
